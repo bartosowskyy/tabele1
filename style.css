@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 68%;
+}
+
+table {
+    width: 90%;
+    max-width: 800px;
+    border-collapse: collapse;
+    margin: 20px auto;
+    background-color: white;
+}
+
+th {
+    background-color: rgb(146, 208, 80);
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+}
+
+td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    background-color: yellow;
+}
